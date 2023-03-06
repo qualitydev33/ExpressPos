@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArnobDam/Express.git"
+    "url": "git+https://github.com/qualitydev33/ExpressPos.git"
   },
   "keywords": [],
-  "author": "Arnob Dam, Chazz Lee, Kunju Kim, Yong Kim",
+  "author": "QualityDEV33",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ArnobDam/Express/issues"
+    "url": "https://github.com/qualitydev33/ExpressPos/issues"
   },
-  "homepage": "https://github.com/ArnobDam/Express#readme",
+  "homepage": "https://github.com/qualitydev33/ExpressPos#readme",
   "engines": {
     "node": "18.x"
   }
